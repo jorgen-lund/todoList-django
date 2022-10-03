@@ -1,0 +1,3 @@
+Django works in the way that your application, my "main", 
+is needed in the templates folder as a folder with the same
+name ("main") in order for it to work.

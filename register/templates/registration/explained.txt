@@ -1,0 +1,4 @@
+Since views is trying to render a template called login.html, logout.htnl
+from a specific folder which is not made yet, we have to do that manually. 
+Hence we make a folder called registration (with that specific name)
+and make login.html inside of that folder. 
